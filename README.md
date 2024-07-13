@@ -5,7 +5,7 @@ AtliQ Hardware, a leading global supplier of computer hardware and peripherals. 
 - Project objective:
   The objective of this project was to create:
   
-    1. Create a [customer performance report](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
+    1. Create a [Borough Booking Average](https://github.com/Tabshills/Hotel-Analysis/blob/main/Borough%20Booking%20Average.pdf) 
 
     2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Performance.pdf)
   
