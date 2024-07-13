@@ -5,31 +5,20 @@ AtliQ Hardware, a leading global supplier of computer hardware and peripherals. 
 - Project objective:
   The objective of this project was to create:
   
-    1. Create a [Borough Booking Average](https://github.com/Tabshills/Hotel-Analysis/blob/main/Borough%20Booking%20Average.pdf) 
+    1. Create a [Borough with Highest Average Bookings](https://github.com/Tabshills/Hotel-Analysis/blob/main/Borough%20Booking%20Average.pdf) 
 
-    2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Performance.pdf)
+    2. Conducted a comprehensive comparison between the [Highest Paid Hotel By Borough](https://github.com/Tabshills/Hotel-Analysis/blob/main/Highest%20Paid%20Hotels%20By%20Boroughs.pdf)
   
-    3. Create Pofit and Loss (P&L) reports by [Fiscal Year](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Year.pdf)
+    3. Compared [Revenue By Room Type](https://github.com/Tabshills/Hotel-Analysis/blob/main/Revenue%20By%20Room.pdf)
 
-    4. Create Pofit and Loss (P&L) reports by [Months & Quaters](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Months%20and%20Quaters.pdf)
-
-### Sales Analytics  
+### Hotel Analysis  
 I performed a thorough examination of net sales performance, conducting a comprehensive analysis that encompassed multiple dimensions such as year, customer, market, product, growth, and division. The objective of sales analytics is to enable businesses to systematically observe and assess their sales overall performance.
 
-### Finance Analytics
-I devised and put into action critical financial metrics, including Net Sales, Cost of Goods Sold (COGS), Gross Margin, and Gross Margin Percentage, with the aim of constructing a Profit and Loss (P&L) statement. These metrics play a crucial role in producing valuable insights, facilitating data-driven decision-making processes.
-
-
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
+- [x]	Performing Pivot Tables
+- [x]	Use of Visual Charts
+- [x]	Excel arithmetic functions utilization
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
