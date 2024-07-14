@@ -1,8 +1,4 @@
-## Overview
-AtliQ Hardware, a leading global supplier of computer hardware and peripherals. I played a pivotal role which made me responsible for generating comprehensive sales and financial reports to analyze the company's market performance throughout the years 2019, 2020, and 2021:
-
-
-- Project objective:
+## Project objective:
   The objective of this project was to create:
   
     1. Create a [Borough with Highest Average Bookings](https://github.com/Tabshills/Hotel-Analysis/blob/main/Borough%20Booking%20Average.pdf) 
