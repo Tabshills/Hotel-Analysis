@@ -5,7 +5,7 @@
 
   *  2. Conducted a comprehensive comparison between the [Highest Paid Hotel By Borough](https://github.com/Tabshills/Hotel-Analysis/blob/main/Highest%20Paid%20Hotels%20By%20Boroughs.pdf)
   
-   * 3. Compared [Revenue By Room Type](https://github.com/Tabshills/Hotel-Analysis/blob/main/Revenue%20By%20Room.pdf)
+   * 3. Compared highest contributing [Revenue By Room Type](https://github.com/Tabshills/Hotel-Analysis/blob/main/Revenue%20By%20Room.pdf)
 
 ### Hotel Analysis Findings  
 1. From the Analysis Carried Out, You can easily spot that Manhattan has the highes booking Average
