@@ -1,7 +1,7 @@
 ## Project Objective:
   The objective of this project was to create:
   
-    1. Create a [Borough with Highest Average Bookings](https://github.com/Tabshills/Hotel-Analysis/blob/main/Borough%20Booking%20Average.pdf) 
+   * 1. Create a [Borough with Highest Average Bookings](https://github.com/Tabshills/Hotel-Analysis/blob/main/Borough%20Booking%20Average.pdf) 
 
     2. Conducted a comprehensive comparison between the [Highest Paid Hotel By Borough](https://github.com/Tabshills/Hotel-Analysis/blob/main/Highest%20Paid%20Hotels%20By%20Boroughs.pdf)
   
