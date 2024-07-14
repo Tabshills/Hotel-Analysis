@@ -11,8 +11,8 @@ AtliQ Hardware, a leading global supplier of computer hardware and peripherals. 
   
     3. Compared [Revenue By Room Type](https://github.com/Tabshills/Hotel-Analysis/blob/main/Revenue%20By%20Room.pdf)
 
-### Hotel Analysis  
-I performed a thorough examination of net sales performance, conducting a comprehensive analysis that encompassed multiple dimensions such as year, customer, market, product, growth, and division. The objective of sales analytics is to enable businesses to systematically observe and assess their sales overall performance.
+### Hotel Analysis Findings  
+From the Analysis Carried Out, You can easily spot that Manhattan has the highes booking Average, 
 
 ## Technical & Soft Skills:
 - [x]	Performing Pivot Tables
