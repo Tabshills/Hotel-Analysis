@@ -12,7 +12,9 @@ AtliQ Hardware, a leading global supplier of computer hardware and peripherals. 
     3. Compared [Revenue By Room Type](https://github.com/Tabshills/Hotel-Analysis/blob/main/Revenue%20By%20Room.pdf)
 
 ### Hotel Analysis Findings  
-From the Analysis Carried Out, You can easily spot that Manhattan has the highes booking Average, 
+1. From the Analysis Carried Out, You can easily spot that Manhattan has the highes booking Average
+2. On the second analysis you can see that solely brooklyn, Queens, and Manhattan has hotel renting for up to $10,000.
+3. I found out that the rooms that generates the majority of profits generally are Apartments.
 
 ## Technical & Soft Skills:
 - [x]	Performing Pivot Tables
