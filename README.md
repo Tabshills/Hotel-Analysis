@@ -8,9 +8,9 @@
    * 3. Compared highest contributing [Revenue By Room Type](https://github.com/Tabshills/Hotel-Analysis/blob/main/Revenue%20By%20Room.pdf)
 
 ### Hotel Analysis Findings  
-1. From the Analysis Carried Out, You can easily spot that Manhattan has the highes booking Average
-2. On the second analysis you can see that solely brooklyn, Queens, and Manhattan has hotel renting for up to $10,000.
-3. I found out that the rooms that generates the majority of profits generally are Apartments.
+1. From the analysis conducted, it is evident that Manhattan has the highest average bookings.
+2. The second analysis indicates that only Brooklyn, Queens, and Manhattan have hotel rentals reaching up to $10,000.
+3. The data reveals that apartments are the primary contributors to the majority of profits.
 
 ## Technical & Soft Skills:
 - [x]	Performing Pivot Tables
